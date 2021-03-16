@@ -1,0 +1,24 @@
+.rec-blue{
+  height: 300px;
+  background-color: blue;
+}
+
+.rec-red{
+  height: 300px;
+  background-color: antiquewhite;
+}
+
+.rec-green{
+  height: 300px;
+  background-color: green;
+}
+
+.rec-orange{
+  height: 300px;
+  background-color: orange;
+}
+
+
+.navbar-custom-bg {
+  background-color: antiquewhite;
+}
